@@ -1,3 +1,6 @@
 module.exports = {
-  modules: ['nuxtent']
+  modules: [
+    '@nuxtjs/axios'
+    'nuxtent'
+  ]
 }
